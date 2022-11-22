@@ -10,7 +10,7 @@ export const config = {
     footer: [
         {
             name: {zh: "支持", en: "Support"},
-            url: "https://github.com/SonMooSans"
+            url: "https://github.com/ShadowGamer1221"
         }
     ],
     settings: detail => [
@@ -28,7 +28,7 @@ export const config = {
         "auto_kill_kane": KillKane
     },
     tutorialUrl: "https://github.com/SonMooSans/discord-bot-dashboard",
-    serverUrl: "http://localhost:8080",
+    serverUrl: "http://165.22.177.226:8080",
     inviteUrl: "https://discord.com/api/oauth2/authorize?client_id=1004280473956139038&permissions=8&scope=bot",
     data: {
         dashboard: dashboardData,
